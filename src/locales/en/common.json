@@ -1,0 +1,9 @@
+{
+  "home": {
+    "welcome": "Welcome !",
+    "dark": "Dark",
+    "light": "Light",
+    "language": "Language",
+    "theme": "Theme"
+  }
+}

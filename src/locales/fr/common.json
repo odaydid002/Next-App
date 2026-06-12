@@ -1,0 +1,9 @@
+{
+  "home": {
+    "welcome": "Bienvenue !",
+    "dark": "Sombre",
+    "light": "Clair",
+    "language": "Langue",
+    "theme": "Mode"
+  }
+}

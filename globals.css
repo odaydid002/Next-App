@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+*{
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+body {
+	margin-inline: 0;
+  	padding-inline: 0;
+}
